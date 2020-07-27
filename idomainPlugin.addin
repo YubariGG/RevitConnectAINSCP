@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?> 
+ <!-- Primer nivel para encapsular todos los addins que contiene el archivo. --> <RevitAddIns> 
+ <!-- Segundo nivel para encapsular un addin. es necesario indicar el tipo de addin. -->
+<AddIn Type="Application"> 
+<!-- Línea donde se indica la ruta relativa donde se encuentra el archivo .dll del addin. -->      
+<Assembly>C:\Users\jaime.hernandez\Desktop\idomainPlugin\idomainPlugin\bin\Debug\idomainPlugin.dll</Assembly> 
+<!-- Línea donde se indica el identificador único del addin. -->
+<AddInId>5c27936f-8bb7-4701-89a2-29d539acad5a</AddInId> 
+<!-- Línea donde se indica la ruta dentro de la solución donde se encuetra el método 'Execute' del addin. -->    
+<FullClassName>idomainPlugin.Class1</FullClassName> 
+<!-- Línea donde se indica el nombre visible del addin. --> 
+<Text>AIN REVIT Connector</Text>   
+<!-- Línea donde se indica el identificador único del creador del addin. --> 
+<VendorId>IDOM</VendorId>
+<Name>IDOM AIN PLUGIN</Name>
+<!-- Línea donde se indica la descripción del creador del addin. --> 
+<VendorDescription>Consulting Engineering Architecture</VendorDescription>
+</AddIn> 
+</RevitAddIns> 
