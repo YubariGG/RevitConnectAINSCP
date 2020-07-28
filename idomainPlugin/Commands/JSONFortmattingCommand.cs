@@ -16,7 +16,6 @@ using System.Collections.Generic;
 using System.Web.UI;
 using System.Web.Script.Serialization;
 
-
 namespace idomainPlugin.Commands
 {
     using Autodesk.Revit.Attributes;
@@ -24,18 +23,16 @@ namespace idomainPlugin.Commands
     using Autodesk.Revit.DB;
     using System.Windows;
     using RestSharp.Serialization.Json;
-
     [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
     [Autodesk.Revit.Attributes.Regeneration(Autodesk.Revit.Attributes.RegenerationOption.Manual)]
-    public class TagWallLayersCommand : IExternalCommand
+    public class JSONFortmattingCommand : IExternalCommand
     {
         #region public methods
         [Obsolete]
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             // Format the prompt information string
-            String promptInfo = "Element with ID 278826 parámetres will be updated with it's twin on AIN.\n";
-            promptInfo += "If you don't wan`t this to happen, press Cancel.";
+            String promptInfo = "A .json file will be downloaded from SAP AIN and put on your Desktop qith element's ID on its name.\n";
 
             // Show the prompt message, and allow the user to close the dialog directly.
             TaskDialog taskDialog = new TaskDialog("Update Parameters");
@@ -83,42 +80,92 @@ namespace idomainPlugin.Commands
                 var clientEquipment = new RestClient("https://ain-live.cfapps.eu10.hana.ondemand.com/services/api/v1/equipment(6F93AEFE21D341EA8AB3723419E66793)/values");
                 var requestEquipment = new RestRequest(Method.GET);
                 requestEquipment.AddHeader("authorization", "Bearer " + access_token);
-               /* request.AddHeader("Content-Type", "application/json");
-                request.AddHeader("cache-control", "no-cache");*/
+                /* request.AddHeader("Content-Type", "application/json");
+                 request.AddHeader("cache-control", "no-cache");*/
                 var responseEquipment = clientEquipment.Execute(requestEquipment);
-                var barcode = "";
-                barcode = JObject.Parse(responseEquipment.Content).SelectToken("templates")[0]["attributeGroups"][0]["attributes"][10]["value1"].ToString();
-                ///Escribir el parámetro en Revit
-                Autodesk.Revit.DB.Transaction t = new Autodesk.Revit.DB.Transaction(doc, "Change Parameter");
 
-                t.Start();
+                //Creación del fichero json que se requiere en la prueba
+                var serializer = new JavaScriptSerializer();
+                var serializedResult = serializer.Serialize(responseEquipment.Content);
+                string json_pretty = JSON_PrettyPrinter.Process(serializedResult);
+                //Escritura en fichero
+                System.IO.File.WriteAllText(@"C:\Users\jaime.hernandez\Desktop\jsonAIN" + e.Id.ToString() + ".json", json_pretty);
 
-                Parameter myparam = e.LookupParameter("Barcode"); //lookup the value of the parameter named "Comment"
-
-                ///Sustituir lo de dentro del Set por lo que venga de la llamada..
-                myparam.Set(barcode);
-                TaskDialog.Show("Parámetro correctamente actualizado", "El parámetro Barcode del equipo " + e.Id.ToString() + 
-                        " se ha cambiado correctamente a " + barcode);
-
-                t.Commit();
+                TaskDialog.Show("Download correct", "JSON File is on your desktop with name " + e.Id.ToString() + ".json");
             }
 
             return Result.Succeeded;
         }
 
-        internal class Token
+        class JSON_PrettyPrinter
         {
-            [JsonProperty("access_token")]
-            public string AccessToken { get; set; }
+            public static string Process(string inputText)
+            {
+                bool escaped = false;
+                bool inquotes = false;
+                int column = 0;
+                int indentation = 0;
+                Stack<int> indentations = new Stack<int>();
+                int TABBING = 8;
+                StringBuilder sb = new StringBuilder();
+                foreach (char x in inputText)
+                {
+                    sb.Append(x);
+                    column++;
+                    if (escaped)
+                    {
+                        escaped = false;
+                    }
+                    else
+                    {
+                        if (x == '\\')
+                        {
+                            escaped = true;
+                        }
+                        else if (x == '\"')
+                        {
+                            inquotes = !inquotes;
+                        }
+                        else if (!inquotes)
+                        {
+                            if (x == ',')
+                            {
+                                // if we see a comma, go to next line, and indent to the same depth
+                                sb.Append("\r\n");
+                                column = 0;
+                                for (int i = 0; i < indentation; i++)
+                                {
+                                    sb.Append(" ");
+                                    column++;
+                                }
+                            }
+                            else if (x == '[' || x == '{')
+                            {
+                                // if we open a bracket or brace, indent further (push on stack)
+                                indentations.Push(indentation);
+                                indentation = column;
+                            }
+                            else if (x == ']' || x == '}')
+                            {
+                                // if we close a bracket or brace, undo one level of indent (pop)
+                                indentation = indentations.Pop();
+                            }
+                            else if (x == ':')
+                            {
+                                // if we see a colon, add spaces until we get to the next
+                                // tab stop, but without using tab characters!
+                                while ((column % TABBING) != 0)
+                                {
+                                    sb.Append(' ');
+                                    column++;
+                                }
+                            }
+                        }
+                    }
+                }
+                return sb.ToString();
+            }
 
-            [JsonProperty("token_type")]
-            public string TokenType { get; set; }
-
-            [JsonProperty("expires_in")]
-            public int ExpiresIn { get; set; }
-
-            [JsonProperty("refresh_token")]
-            public string RefreshToken { get; set; }
         }
         #endregion
     }
