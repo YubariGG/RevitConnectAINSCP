@@ -18,7 +18,7 @@ namespace idomainPlugin
 
          Result IExternalApplication.OnStartup(UIControlledApplication application)
         {
-            string tabName = "Plugin IDOM";
+            string tabName = "IDOM TOOLS";
 
             string panelAnnotationName = "Comandos AIN";
 
@@ -26,25 +26,25 @@ namespace idomainPlugin
 
             var panelAnnotation = application.CreateRibbonPanel(tabName, panelAnnotationName);
 
-            var TagWallLLayersBtnData = new PushButtonData("TagWallLLayersBtnData", "Connect\nAIN", Assembly.GetExecutingAssembly().Location, "idomainPlugin.Commands.TagWallLayersCommand")
+            var TagWallLLayersBtnData = new PushButtonData("ConnectAINBttnData", "Connect\nAIN", Assembly.GetExecutingAssembly().Location, "idomainPlugin.Commands.ConnectAINCommand")
             {
-                ToolTipImage = new BitmapImage(new Uri(@"C:\Users\jaime.hernandez\Desktop\idomainPlugin\res\Connect_320_320.png")),
+                ToolTipImage = new BitmapImage(new Uri(@"C:\Users\" + Environment.UserName.ToString() + "\\Desktop\\idomainPlugin\\res\\Connect_320_320.png")),
                 ToolTip = "Connect with AIN"
 
             };
 
             var TagWallLLayersBtn = panelAnnotation.AddItem(TagWallLLayersBtnData) as PushButton;
-            TagWallLLayersBtn.LargeImage = new BitmapImage(new Uri(@"C:\Users\jaime.hernandez\Desktop\idomainPlugin\res\Connect_32_32.png"));
+            TagWallLLayersBtn.LargeImage = new BitmapImage(new Uri(@"C:\Users\" + Environment.UserName.ToString() + "\\Desktop\\idomainPlugin\\res\\Connect_32_32.png"));
 
             var JSONFortmattingCommandData = new PushButtonData("JSONFortmattingCommand", "GET JSON\nfile", Assembly.GetExecutingAssembly().Location, "idomainPlugin.Commands.JSONFortmattingCommand")
             {
-                ToolTipImage = new BitmapImage(new Uri(@"C:\Users\jaime.hernandez\Desktop\idomainPlugin\res\JSON_320_320.png")),
+                ToolTipImage = new BitmapImage(new Uri(@"C:\Users\" + Environment.UserName.ToString() + "\\Desktop\\idomainPlugin\\res\\JSON_320_320.png")),
                 ToolTip = "Download .json file with equipment data"
 
             };
 
             var JSONFortmattingCommandBtn = panelAnnotation.AddItem(JSONFortmattingCommandData) as PushButton;
-            JSONFortmattingCommandBtn.LargeImage = new BitmapImage(new Uri(@"C:\Users\jaime.hernandez\Desktop\idomainPlugin\res\JSON_32_32.png"));
+            JSONFortmattingCommandBtn.LargeImage = new BitmapImage(new Uri(@"C:\Users\" + Environment.UserName.ToString() + "\\Desktop\\idomainPlugin\\res\\JSON_32_32.png"));
 
 
             return Result.Succeeded;

@@ -184,7 +184,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Commands\JSONFortmattingCommand.cs" />
-    <Compile Include="Commands\TagWallLayersCommand.cs" />
+    <Compile Include="Commands\ConnectAINCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
