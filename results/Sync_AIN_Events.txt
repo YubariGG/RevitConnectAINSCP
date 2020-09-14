@@ -1,0 +1,40 @@
+Initialization of AIN - Revit syncronization process at 09/03/2020 7:04 
+Parameter SNUM_CHECKLISTS del equipo 278861 se ha cambiado correctamente a 3
+Parameter SNUM_ISSUES del equipo 278861 se ha cambiado correctamente a 0
+Parameter SNUM_OPEN_CHECKLISTS del equipo 278861 se ha cambiado correctamente a 3
+Parameter SNUM_OPEN_ISSUES del equipo 278861 se ha cambiado correctamente a 0
+Parameter SAPERTURA_ESPADINES del equipo 278861 se ha cambiado correctamente a 165
+Parameter SAPERTURA_PUNTA_MOVIL del equipo 278861 se ha cambiado correctamente a 0
+Parameter SBARCODE del equipo 278861 se ha cambiado correctamente a AG2-25881
+Parameter SCOMMENTS del equipo 278861 se ha cambiado correctamente a x
+Parameter SCOMPROBACION_DE_GALGAS del equipo 278861 se ha cambiado correctamente a 2 SI-5 NO
+Parameter SCOD_SAP_EQUIPO del equipo 278861 se ha cambiado correctamente a E0200051
+Parameter SCOD_SAP_EQUIPOS_INFERIORES del equipo 278861 se ha cambiado correctamente a E0232144
+Parameter SCOD_SAP_SUBEQUIPOS del equipo 278861 se ha cambiado correctamente a E0232144
+Parameter SCOD_SAP_UBICACION_TECNICA del equipo 278861 se ha cambiado correctamente a LP94
+Parameter SDATE_CREATED del equipo 278861 se ha cambiado correctamente a 04/24/2018 12:56:26
+Parameter SESFUERZOS_MAX_MOTOR del equipo 278861 se ha cambiado correctamente a 1100
+Parameter SFECHA_INSTALACION_EMBRAGUE del equipo 278861 se ha cambiado correctamente a 43070
+Parameter SLOCATION_PATH del equipo 278861 se ha cambiado correctamente a Linea Lleida - La Pobla de Segur>Balaguer>Laado Lleida
+Parameter SMODELO del equipo 278861 se ha cambiado correctamente a MD2000
+Parameter SPLANOS del equipo 278861 se ha cambiado correctamente a 0
+Parameter SFUERZA_DEL_EMBRAGUE del equipo 278861 se ha cambiado correctamente a 1100
+Parameter SRECORRIDO_DE_LAS_BARRAS del equipo 278861 se ha cambiado correctamente a 220
+Parameter SSTATUS del equipo 278861 se ha cambiado correctamente a Protocolo prueba validado
+Parameter SSUJETO_A_SAFETY del equipo 278861 se ha cambiado correctamente a Si
+Parameter STIPO_DE_EMBRAGUE del equipo 278861 se ha cambiado correctamente a No talonable
+Parameter SNUM_CHECKLISTS del equipo 278826 se ha cambiado correctamente a 0
+Parameter SNUM_ISSUES del equipo 278826 se ha cambiado correctamente a 0
+Parameter SNUM_OPEN_CHECKLISTS del equipo 278826 se ha cambiado correctamente a 0
+Parameter SNUM_OPEN_ISSUES del equipo 278826 se ha cambiado correctamente a 0
+Parameter SAPERTURA_ESPADINES del equipo 278826 se ha cambiado correctamente a 165
+Parameter SAPERTURA_PUNTA_MOVIL del equipo 278826 se ha cambiado correctamente a 0
+Parameter SBARCODE del equipo 278826 se ha cambiado correctamente a AG3-26234
+Parameter SCOMMENTS del equipo 278826 se ha cambiado correctamente a x
+Parameter SCOD_SAP_UBICACION_TECNICA del equipo 278826 se ha cambiado correctamente a LP94
+Parameter SDATE_CREATED del equipo 278826 se ha cambiado correctamente a 05/13/2018 13:37:50
+Parameter SLOCATION_PATH del equipo 278826 se ha cambiado correctamente a Lineaa Lleida - La Pobla de Segur>Balaguer>Lado La Pobla
+Parameter SPLANOS del equipo 278826 se ha cambiado correctamente a 0
+Parameter SSTATUS del equipo 278826 se ha cambiado correctamente a Protocolo prueba validado
+Parameter SSUJETO_A_SAFETY del equipo 278826 se ha cambiado correctamente a Si
+Synchronization ended at 09/03/2020 7:04  correctly.

@@ -1,0 +1,1762 @@
+{
+  "equipos": [
+    {
+      "equipmentId": "78603EEFBD6E4721B73649705503C19E",
+      "name": "282280",
+      "internalId": "282280",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "CBB463A3E7914FA894861E6627DEDF60",
+      "modelName": "FGC_UNKNOWN",
+      "shortDescription": "FGC_MGM_EnclavamientoElectronico:WT:675699:WT:675699 : MGM_EnclavamientoElectronico:WT:675699:282280",
+      "templateId": "6CE2A3B040A04CBEBD268AA7C82DDADD",
+      "subclass": null,
+      "modelTemplate": "1FKV6S6FWXSMHHGCWHES3JFSY0",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 31.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000141",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "1A84314F37F74741B5D1178CE1FD131C",
+          "value1": "WESTRACE",
+          "name": "0ZSM4GUBL2SSL9Q2FQYK8Y3MUA",
+          "internalId": "0ZSM4GUBL2SSL9Q2FQYK8Y3MUA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "E0100059",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4B6342D9ECAB4FAC98AA2A7FAFC0DC42",
+          "value1": "AUX",
+          "name": "1F9EMHH2UY7VZSJB4XK528YGRQ",
+          "internalId": "1F9EMHH2UY7VZSJB4XK528YGRQ",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7714595D459443BAB6F88C404C00F50D",
+          "value1": "Westrace Auxiliar",
+          "name": "090YRKCZVMS0G1TPA8SNVDU19M",
+          "internalId": "090YRKCZVMS0G1TPA8SNVDU19M",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "C95BD05D97274CF4813E7E86013D17BA",
+          "value1": "E0103057",
+          "name": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "internalId": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B839F0324D5749DFA8E66B9A5ED0253D",
+          "value1": "AUX",
+          "name": "0FMTM4NE9MX94BB4BACJ5LPAKH",
+          "internalId": "0FMTM4NE9MX94BB4BACJ5LPAKH",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94001",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "WT AUX",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33025EA849649B3B9FBE37FFF292D25",
+          "value1": "E0103057",
+          "name": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "internalId": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "865FED9D72B34F30822FF365365F5601",
+          "value1": "67b8eb19-1b3f-4da7-96d2-9d6b0d538c69",
+          "name": "01NAPTWM4FXUBQGUZGKGESRAZU",
+          "internalId": "01NAPTWM4FXUBQGUZGKGESRAZU",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "7F331CB0B5A246E3925D139AB0220FEC",
+      "name": "281487",
+      "internalId": "281487",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "3CE3CA0341A8472381C9B43B8DAC2BEF",
+      "modelName": "FGC_Enclavamiento_Baliza",
+      "shortDescription": "FGC_MGM_Baliza_MOD:BalizaAsfa:653416:BalizaAsfa:653416 : MGM_Baliza_MOD:BalizaAsfa:653416:281487",
+      "templateId": "92F64D7BCCD04F70AE6A5769693A42EE",
+      "subclass": null,
+      "modelTemplate": "0JMJ6NY61VPT85BHECNG10CE5E",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 21.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000140",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "BAL-E1-27442",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado La Pobla",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94001",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "988C0B2F45694D80A5E680CBF5AE5317",
+      "name": "281472",
+      "internalId": "281472",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "3CE3CA0341A8472381C9B43B8DAC2BEF",
+      "modelName": "FGC_Enclavamiento_Baliza",
+      "shortDescription": "FGC_MGM_Baliza_MOD:BalizaAsfa:653411:BalizaAsfa:653411 : MGM_Baliza_MOD:BalizaAsfa:653411:281472",
+      "templateId": "92F64D7BCCD04F70AE6A5769693A42EE",
+      "subclass": null,
+      "modelTemplate": "0JMJ6NY61VPT85BHECNG10CE5E",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 21.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000139",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "BAL-E2-25022",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado Lleida",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94001",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "209298A6CB3A4607A71712F16AD8381A",
+      "name": "281332",
+      "internalId": "281332",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "2FCCE6278C724ACC8D6022E35D947783",
+      "modelName": "FGC_Enclavamiento_Cuentaejes",
+      "shortDescription": "FGC_MGM_Cuentaejes_MOD:Cuentaejes:653406:Cuentaejes:653406 : MGM_Cuentaejes_MOD:Cuentaejes:653406:281332",
+      "templateId": "FB5C4BFAF04E481D8FB6CA8A9E2C815C",
+      "subclass": null,
+      "modelTemplate": "06MMS4T50VLCLRNR6F6PMBH2KC",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 25.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000138",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "C95BD05D97274CF4813E7E86013D17BA",
+          "value1": "E0521016",
+          "name": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "internalId": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "CCE2-26021",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado Lleida",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33025EA849649B3B9FBE37FFF292D25",
+          "value1": "E0520002",
+          "name": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "internalId": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94001",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "E0500014",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "A3BC718798CA4D5FB52639E07626CF89",
+      "name": "281276",
+      "internalId": "281276",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "FF16D4F70D1E452F96E8977FC4FB0AA2",
+      "modelName": "FGC_Enclavamiento_Senal",
+      "shortDescription": "FGC_MGM_SenalFocos_MOD:3Focos:653400:3Focos:653400 : MGM_SenalFocos_MOD:3Focos:653400:281276",
+      "templateId": "1080E218ECCA42569A2E6202DAB97CF9",
+      "subclass": null,
+      "modelTemplate": "1GWRCFYRXGZ41GGFZXEQ18EBGA",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 18.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000137",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "S1/2-3F-25942",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado Lleida",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "BB147ABF7E6347A9B1ADD6585C170285",
+      "name": "281269",
+      "internalId": "281269",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "FF16D4F70D1E452F96E8977FC4FB0AA2",
+      "modelName": "FGC_Enclavamiento_Senal",
+      "shortDescription": "FGC_MGM_SenalFocos_MOD:4Focos:653398:4Focos:653398 : MGM_SenalFocos_MOD:4Focos:653398:281269",
+      "templateId": "1080E218ECCA42569A2E6202DAB97CF9",
+      "subclass": null,
+      "modelTemplate": "1GWRCFYRXGZ41GGFZXEQ18EBGA",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 18.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000136",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "S2/1-3F-26175",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado La Pobla",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "CFB9BDA49C6A459EB07BACD0DDE01107",
+      "name": "278896",
+      "internalId": "278896",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "2FCCE6278C724ACC8D6022E35D947783",
+      "modelName": "FGC_Enclavamiento_Cuentaejes",
+      "shortDescription": "FGC_MGM_Cuentaejes_MOD:Cuentaejes:570036:Cuentaejes:570036 : MGM_Cuentaejes_MOD:Cuentaejes:570036:278896",
+      "templateId": "FB5C4BFAF04E481D8FB6CA8A9E2C815C",
+      "subclass": null,
+      "modelTemplate": "06MMS4T50VLCLRNR6F6PMBH2KC",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 25.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000135",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "C95BD05D97274CF4813E7E86013D17BA",
+          "value1": "E0521017",
+          "name": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "internalId": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "0",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "CCE3-25942",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado Lleida",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33025EA849649B3B9FBE37FFF292D25",
+          "value1": "E0520002",
+          "name": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "internalId": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94001",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "0",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "E0500014",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "BFD8BF425BD04650AF47123AA8113BE4",
+      "name": "278861",
+      "internalId": "278861",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": null,
+      "modelName": null,
+      "shortDescription": "FGC_MGM_Motor_MOD:Aguja:570032:Aguja:570032 : MGM_Motor_MOD:Aguja:570032:278861",
+      "templateId": null,
+      "subclass": null,
+      "modelTemplate": null,
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": null,
+      "completeness": 29.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": null,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000134",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": null,
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "BFD1A297A5DC4530842C2AECF9A9BBD1",
+          "value1": "3",
+          "name": "SNUM_CHECKLISTS",
+          "internalId": "SNUM_CHECKLISTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "BEAF229A1009477F8D51C1DFD9703425",
+          "value1": "0",
+          "name": "SNUM_ISSUES",
+          "internalId": "SNUM_ISSUES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A4E5ED5890EA45EB89BDD2706DB58A77",
+          "value1": "3",
+          "name": "SNUM_OPEN_CHECKLISTS",
+          "internalId": "SNUM_OPEN_CHECKLISTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "E1AD6C2A3B6C474DA7BA86E74FDFA563",
+          "value1": "0",
+          "name": "SNUM_OPEN_ISSUES",
+          "internalId": "SNUM_OPEN_ISSUES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "0E8429E34F554C359D9122978C578821",
+          "value1": "165",
+          "name": "SAPERTURA_ESPADINES",
+          "internalId": "SAPERTURA_ESPADINES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "704C233B6BFF4EA988C8DD1CB83A4D1B",
+          "value1": "0",
+          "name": "SAPERTURA_PUNTA_MOVIL",
+          "internalId": "SAPERTURA_PUNTA_MOVIL",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "38FBAA99678C43D980660CABAAE99119",
+          "value1": "AG2-25881",
+          "name": "SBARCODE",
+          "internalId": "SBARCODE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B5AF55A428AD4BC6812A2A347C35C129",
+          "value1": "x",
+          "name": "SCOMMENTS",
+          "internalId": "SCOMMENTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "86A770F680E64243B01F832693531293",
+          "value1": "2 SI-5 NO",
+          "name": "SCOMPROBACION_DE_GALGAS",
+          "internalId": "SCOMPROBACION_DE_GALGAS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CEA5DC5E1CC24149A880F7802A7BF4B1",
+          "value1": "E0200051",
+          "name": "SCOD_SAP_EQUIPO",
+          "internalId": "SCOD_SAP_EQUIPO",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "3ADEBA4101C74F418E731C48139FDB84",
+          "value1": "E0232144",
+          "name": "SCOD_SAP_EQUIPOS_INFERIORES",
+          "internalId": "SCOD_SAP_EQUIPOS_INFERIORES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "FB3C3E66B69247F8AEA37059C042F48F",
+          "value1": "E0232144",
+          "name": "SCOD_SAP_SUBEQUIPOS",
+          "internalId": "SCOD_SAP_SUBEQUIPOS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A35BF5E4914643EA915DAA516F9380A4",
+          "value1": "LP94001",
+          "name": "SCOD_SAP_UBICACION_TECNICA_PRI",
+          "internalId": "SCOD_SAP_UBICACION_TECNICA_PRI",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "672914055BD14743A61A8B08DE11FCBE",
+          "value1": "LP94",
+          "name": "SCOD_SAP_UBICACION_TECNICA",
+          "internalId": "SCOD_SAP_UBICACION_TECNICA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD53B6B7579B4D678AACAEBA4052BBCF",
+          "value1": "04/24/2018 12:56:26",
+          "name": "SDATE_CREATED",
+          "internalId": "SDATE_CREATED",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "037DB6432B5D4A76B2A09CC08244BAAB",
+          "value1": "1100",
+          "name": "SESFUERZOS_MAX_MOTOR",
+          "internalId": "SESFUERZOS_MAX_MOTOR",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "653753CACA5949EDB8DBBD53251C8E2E",
+          "value1": "43070",
+          "name": "SFECHA_INSTALACION_EMBRAGUE",
+          "internalId": "SFECHA_INSTALACION_EMBRAGUE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "3E73241BF08C48D58E90D53D121752CB",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Laado Lleida",
+          "name": "SLOCATION_PATH",
+          "internalId": "SLOCATION_PATH",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "376636F364644E4BBC45AFF85B7A7073",
+          "value1": "MD2000",
+          "name": "SMODELO",
+          "internalId": "SMODELO",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "BCD8347C4A374B42BF142F6E32D5F4F9",
+          "value1": "0",
+          "name": "SPLANOS",
+          "internalId": "SPLANOS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "9260B4F77F0048E89EC8BD7D129F61FF",
+          "value1": "1100",
+          "name": "SFUERZA_DEL_EMBRAGUE",
+          "internalId": "SFUERZA_DEL_EMBRAGUE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B5914197206941379FF14EE863C1F483",
+          "value1": "220",
+          "name": "SRECORRIDO_DE_LAS_BARRAS",
+          "internalId": "SRECORRIDO_DE_LAS_BARRAS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "E098A2F7AE0C48F4936B64AF9CD39A2E",
+          "value1": "Protocolo prueba validado",
+          "name": "SSTATUS",
+          "internalId": "SSTATUS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CCEC2B4059FF4CDA98B5595E81EEABD9",
+          "value1": "Si",
+          "name": "SSUJETO_A_SAFETY",
+          "internalId": "SSUJETO_A_SAFETY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "5F9CA8E76FDD4E20B5D8EB678A053C23",
+          "value1": "No talonable",
+          "name": "STIPO_DE_EMBRAGUE",
+          "internalId": "STIPO_DE_EMBRAGUE",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "B2C8FA1B487D4CF1BB067DC0E3AC11CD",
+      "name": "278826",
+      "internalId": "278826",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": null,
+      "modelName": null,
+      "shortDescription": "FGC_MGM_Motor_MOD:Aguja:570031:Aguja:570031 : MGM_Motor_MOD:Aguja:570031:278826",
+      "templateId": null,
+      "subclass": null,
+      "modelTemplate": null,
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": null,
+      "completeness": 20.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": null,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000133",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": null,
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "BFD1A297A5DC4530842C2AECF9A9BBD1",
+          "value1": "0",
+          "name": "SNUM_CHECKLISTS",
+          "internalId": "SNUM_CHECKLISTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "BEAF229A1009477F8D51C1DFD9703425",
+          "value1": "0",
+          "name": "SNUM_ISSUES",
+          "internalId": "SNUM_ISSUES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A4E5ED5890EA45EB89BDD2706DB58A77",
+          "value1": "0",
+          "name": "SNUM_OPEN_CHECKLISTS",
+          "internalId": "SNUM_OPEN_CHECKLISTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "E1AD6C2A3B6C474DA7BA86E74FDFA563",
+          "value1": "0",
+          "name": "SNUM_OPEN_ISSUES",
+          "internalId": "SNUM_OPEN_ISSUES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "0E8429E34F554C359D9122978C578821",
+          "value1": "165",
+          "name": "SAPERTURA_ESPADINES",
+          "internalId": "SAPERTURA_ESPADINES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "704C233B6BFF4EA988C8DD1CB83A4D1B",
+          "value1": "0",
+          "name": "SAPERTURA_PUNTA_MOVIL",
+          "internalId": "SAPERTURA_PUNTA_MOVIL",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "38FBAA99678C43D980660CABAAE99119",
+          "value1": "AG3-26234",
+          "name": "SBARCODE",
+          "internalId": "SBARCODE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B5AF55A428AD4BC6812A2A347C35C129",
+          "value1": "x",
+          "name": "SCOMMENTS",
+          "internalId": "SCOMMENTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A35BF5E4914643EA915DAA516F9380A4",
+          "value1": "LP94001",
+          "name": "SCOD_SAP_UBICACION_TECNICA_PRI",
+          "internalId": "SCOD_SAP_UBICACION_TECNICA_PRI",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "672914055BD14743A61A8B08DE11FCBE",
+          "value1": "LP94",
+          "name": "SCOD_SAP_UBICACION_TECNICA",
+          "internalId": "SCOD_SAP_UBICACION_TECNICA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD53B6B7579B4D678AACAEBA4052BBCF",
+          "value1": "05/13/2018 13:37:50",
+          "name": "SDATE_CREATED",
+          "internalId": "SDATE_CREATED",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "3E73241BF08C48D58E90D53D121752CB",
+          "value1": "Lineaa Lleida - La Pobla de Segur>Balaguer>Lado La Pobla",
+          "name": "SLOCATION_PATH",
+          "internalId": "SLOCATION_PATH",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "BCD8347C4A374B42BF142F6E32D5F4F9",
+          "value1": "0",
+          "name": "SPLANOS",
+          "internalId": "SPLANOS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "E098A2F7AE0C48F4936B64AF9CD39A2E",
+          "value1": "Protocolo prueba validado",
+          "name": "SSTATUS",
+          "internalId": "SSTATUS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CCEC2B4059FF4CDA98B5595E81EEABD9",
+          "value1": "Si",
+          "name": "SSUJETO_A_SAFETY",
+          "internalId": "SSUJETO_A_SAFETY",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "4CAE4328C6A54A3BB935BBFC096F9357",
+      "name": "278698",
+      "internalId": "278698",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "53414B12FE71410D927A0EE3177BDC17",
+      "modelName": "FGC_Enclavamiento_PasoNivel",
+      "shortDescription": "FGC_MGM_PasoNivel_MOD:PasoNivel:570022:PasoNivel:570022 : MGM_PasoNivel_MOD:PasoNivel:570022:278698",
+      "templateId": "A58E9BF2CCC64C3880F32D4525CC7C85",
+      "subclass": null,
+      "modelTemplate": "02FSDAK3XNM2AUN8V39UBZB7EL",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 25.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000132",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "C95BD05D97274CF4813E7E86013D17BA",
+          "value1": "P2000012",
+          "name": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "internalId": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "6",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "SBA-24861",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado Lleida",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33025EA849649B3B9FBE37FFF292D25",
+          "value1": "P2000012",
+          "name": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "internalId": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94002",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "6",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "P2000012",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "CBD0E17D952046659FECB35EF5783178",
+      "name": "277877",
+      "internalId": "277877",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": "53414B12FE71410D927A0EE3177BDC17",
+      "modelName": "FGC_Enclavamiento_PasoNivel",
+      "shortDescription": "FGC_MGM_PasoNivel_MOD:PasoNivel:322949:PasoNivel:322949 : MGM_PasoNivel_MOD:PasoNivel:322949:277877",
+      "templateId": "A58E9BF2CCC64C3880F32D4525CC7C85",
+      "subclass": null,
+      "modelTemplate": "02FSDAK3XNM2AUN8V39UBZB7EL",
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": "e-distribuzione",
+      "completeness": 25.0,
+      "createdOn": 1599091200000,
+      "changedOn": 1599091200000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": 0.0,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000131",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": "e-distribuzione",
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "C95BD05D97274CF4813E7E86013D17BA",
+          "value1": "P1000038",
+          "name": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "internalId": "0GCBPX6PY03ALKSQ0G9M0H2CJA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2D093933211E425CBF7FD5FC038DBDFA",
+          "value1": "Protocolo prueba validado",
+          "name": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "internalId": "00YCB25X8Q5T96J04PPNJ9LRJW",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33F053B7A114D4B8EAEAB59962CF12E",
+          "value1": "0",
+          "name": "013BJC7AK067APHXV5FR1BUS70",
+          "internalId": "013BJC7AK067APHXV5FR1BUS70",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "A15DA30B9E27498DA0C9E1BFE413B8C7",
+          "value1": "LP94",
+          "name": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "internalId": "1B8Q77NPWY8ZKEC03UE5W0HWET",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AE973BF6AE1F427F8EAAD09C315197B7",
+          "value1": "6",
+          "name": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "internalId": "09ZMMGMH24FF0RP1QBTHFPNLXU",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "353D94867EC84D0B91A5662834603C2C",
+          "value1": "SBE-26720",
+          "name": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "internalId": "0JWLM53PXL18XJFKFG9FQ744NE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "7A995383A2C94328A0AF383A801D293C",
+          "value1": "Linea Lleida - La Pobla de Segur>Balaguer>Lado La Pobla",
+          "name": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "internalId": "1JZCC2704D7B0TCDZNN4YSPKYM",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "D33025EA849649B3B9FBE37FFF292D25",
+          "value1": "P1000038",
+          "name": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "internalId": "1A1MJ9FV5SJZ1NJBDPEKWTFZYY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD98568DF6B1403B96B55E3BAD34136C",
+          "value1": "LP94002",
+          "name": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "internalId": "0L5DUD9AMMVD6CRH9WWA06XZBV",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "CD26E6928F6C4C03A5E86E09926EBD4B",
+          "value1": "6",
+          "name": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "internalId": "1DMS42AGLGZACB4N25NTWT4B4T",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4C5D4E3F2B7E40A190A6D4F5B206DC4E",
+          "value1": "P1000038",
+          "name": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "internalId": "1CY2EZQPC5WC9SNPFAL1DZA48L",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B0A5D8C9A6E848A5A5B73FF45ED121AC",
+          "value1": "0",
+          "name": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "internalId": "1NZSEVXWJM0B3L78GJL31SZG0K",
+          "dataType": "STRING"
+        }
+      ]
+    },
+    {
+      "equipmentId": "D8F1B1783B7446579F15BBADEB5982B2",
+      "name": "278662",
+      "internalId": "278662",
+      "status": "1",
+      "statusDescription": "Unpublished",
+      "version": 0.0,
+      "hasInRevision": "0",
+      "modelId": null,
+      "modelName": null,
+      "shortDescription": "FGC_MGM_Motor_MOD:Aguja:570032:Aguja:570033 : MGM_Motor_MOD:Aguja:570033:278861",
+      "templateId": null,
+      "subclass": null,
+      "modelTemplate": null,
+      "location": null,
+      "criticalityCode": null,
+      "criticalityDescription": null,
+      "manufacturer": null,
+      "completeness": 28.0,
+      "createdOn": 1598745600000,
+      "changedOn": 1598745600000,
+      "publishedOn": null,
+      "serialNumber": null,
+      "batchNumber": null,
+      "tagNumber": null,
+      "lifeCycle": "1",
+      "lifeCycleDescription": "Planned",
+      "source": "Intelligent Enterprise",
+      "imageURL": null,
+      "operator": "Intelligent Enterprise",
+      "coordinates": null,
+      "installationDate": null,
+      "equipmentStatus": null,
+      "buildDate": null,
+      "isOperatorValid": "true",
+      "modelVersion": null,
+      "soldTo": null,
+      "image": null,
+      "consume": "1",
+      "dealer": null,
+      "serviceProvider": null,
+      "primaryExternalId": null,
+      "equipmentSearchTerms": "10000091",
+      "sourceSearchTerms": "Intelligent Enterprise",
+      "manufacturerSearchTerms": null,
+      "operatorSearchTerms": "Intelligent Enterprise",
+      "class": null,
+      "attributes": [
+        {
+          "attributeId": "9E016588AB4B4934B4DFBF83ECB1B696",
+          "value1": "1",
+          "uom1": "",
+          "name": "NUM_CHECKLISTS",
+          "internalId": "NUM_CHECKLISTS",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "3F0B347827D843679684FA824B6B1433",
+          "value1": "1",
+          "uom1": "",
+          "name": "NUM_ISSUES",
+          "internalId": "NUM_ISSUES",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "A5A7815117FD45C8B9AB578020D178D2",
+          "value1": "2",
+          "uom1": "",
+          "name": "NUM_OPEN_CHECKLISTS",
+          "internalId": "NUM_OPEN_CHECKLISTS",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "B2F97547840A440283EB5856F0A76C82",
+          "value1": "1",
+          "uom1": "",
+          "name": "NUM_OPEN_ISSUES",
+          "internalId": "NUM_OPEN_ISSUES",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "C21F9E7F3CF64B60B57012C26F650690",
+          "value1": "2",
+          "uom1": "",
+          "name": "APERTURA_ESPADINES",
+          "internalId": "APERTURA_ESPADINES",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "F001F36D33974F038A9C8FB9ED9D88A1",
+          "value1": "1",
+          "uom1": "",
+          "name": "APERTURA_PUNTA_MOVIL",
+          "internalId": "APERTURA_PUNTA_MOVIL",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "6C27114A1EB143C9842A91EC0DDB97DD",
+          "value1": "12345",
+          "name": "BARCODE",
+          "internalId": "BARCODE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "35CDFF99E847461190758CB0C7D8BE3C",
+          "value1": "comments comments",
+          "name": "COMMENTS",
+          "internalId": "COMMENTS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "B9B7D7577F204F5EAE7D6F0C4F2C24E1",
+          "value1": "Comprobacion galgas",
+          "name": "COMPROBACION_DE_GALGAS",
+          "internalId": "COMPROBACION_DE_GALGAS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "3FBEAD3CBE864072BD1F70A7C774314B",
+          "value1": "COD_SAP equipo",
+          "name": "COD_SAP_EQUIPO",
+          "internalId": "COD_SAP_EQUIPO",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "4B91EE74630840C598A5BAAB9DDD4BE3",
+          "value1": "COD_SAP equipos inferios",
+          "name": "COD_SAP_EQUIPOS_INFERIORES",
+          "internalId": "COD_SAP_EQUIPOS_INFERIORES",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "0B72FB3875624136ACBCE2AAD050F48F",
+          "value1": "subequipo",
+          "name": "COD_SAP_SUBEQUIPOS",
+          "internalId": "COD_SAP_SUBEQUIPOS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "FF3E0F34831B44409DC517482F9139E8",
+          "value1": "ubicavion tecnica",
+          "name": "COD_SAP_UBICACION_TECNICA_PRIN",
+          "internalId": "COD_SAP_UBICACION_TECNICA_PRIN",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "39AA6AAFD3DC43FEB9719B250558AF90",
+          "value1": "ubicacion tecnica",
+          "name": "COD_SAP_UBICACION_TECNICA",
+          "internalId": "COD_SAP_UBICACION_TECNICA",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "25244C6C50F94B26916D899CDACB6481",
+          "value1": "13/10/2020",
+          "name": "DATE_CREATED",
+          "internalId": "DATE_CREATED",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "3B811B6B78734A869F62C3902A28B301",
+          "value1": "1",
+          "uom1": "",
+          "name": "ESFUERZOS_MAX_MOTOR",
+          "internalId": "ESFUERZOS_MAX_MOTOR",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "F803DF23EA5A490FA728601BFD7F7B8E",
+          "value1": "location path",
+          "name": "LOCATION_PATH",
+          "internalId": "LOCATION_PATH",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "AD02D1A559764F80849EC06FDA4C58AB",
+          "value1": "planos",
+          "name": "MODELO",
+          "internalId": "MODELO",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "2238820AE08943BF94F3D6599CCEB4FB",
+          "value1": "1",
+          "uom1": "",
+          "name": "PLANOS",
+          "internalId": "PLANOS",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "EC70F35DB1E14B249185DF41170E6746",
+          "value1": "2",
+          "uom1": "",
+          "name": "RECORRIDO_DE_LAS_BARRAS",
+          "internalId": "RECORRIDO_DE_LAS_BARRAS",
+          "dataType": "NUMERIC"
+        },
+        {
+          "attributeId": "D4E8B83C94E94061BE28A22181B11B9C",
+          "value1": "status",
+          "name": "STATUS",
+          "internalId": "STATUS",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "1C7232D51B124346AD5246719BD56C58",
+          "value1": "sujeto a safety ",
+          "name": "SUJETO_A_SAFETY",
+          "internalId": "SUJETO_A_SAFETY",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "65EF1DA25D1743E9BBDB0D78FDBED91E",
+          "value1": "timoneria asociada",
+          "name": "TIMONERIA_ASOCIADA_FABRICANTE",
+          "internalId": "TIMONERIA_ASOCIADA_FABRICANTE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "525ACC8AA8214D279F6C89C72E2C59DD",
+          "value1": "tipo de embrague",
+          "name": "TIPO_DE_EMBRAGUE",
+          "internalId": "TIPO_DE_EMBRAGUE",
+          "dataType": "STRING"
+        },
+        {
+          "attributeId": "9A4BF6FF7E4D4A3AADD102E44E317F0F",
+          "value1": "1",
+          "uom1": "",
+          "name": "FUERZA_DEL_EMBRAGUE",
+          "internalId": "FUERZA_DEL_EMBRAGUE",
+          "dataType": "NUMERIC"
+        }
+      ]
+    }
+  ]
+}

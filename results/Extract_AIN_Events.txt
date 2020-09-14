@@ -1,0 +1,15 @@
+Initialization of JSON extraction process on 09/03/2020 7:06 
+FGC_MGM_EnclavamientoElectronico:WT:675699:WT:675699 : MGM_EnclavamientoElectronico:WT:675699:282280 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Baliza_MOD:BalizaAsfa:653416:BalizaAsfa:653416 : MGM_Baliza_MOD:BalizaAsfa:653416:281487 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Baliza_MOD:BalizaAsfa:653411:BalizaAsfa:653411 : MGM_Baliza_MOD:BalizaAsfa:653411:281472 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Cuentaejes_MOD:Cuentaejes:653406:Cuentaejes:653406 : MGM_Cuentaejes_MOD:Cuentaejes:653406:281332 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_SenalFocos_MOD:3Focos:653400:3Focos:653400 : MGM_SenalFocos_MOD:3Focos:653400:281276 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_SenalFocos_MOD:4Focos:653398:4Focos:653398 : MGM_SenalFocos_MOD:4Focos:653398:281269 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Cuentaejes_MOD:Cuentaejes:570036:Cuentaejes:570036 : MGM_Cuentaejes_MOD:Cuentaejes:570036:278896 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Motor_MOD:Aguja:570032:Aguja:570032 : MGM_Motor_MOD:Aguja:570032:278861 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Motor_MOD:Aguja:570031:Aguja:570031 : MGM_Motor_MOD:Aguja:570031:278826 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_PasoNivel_MOD:PasoNivel:570022:PasoNivel:570022 : MGM_PasoNivel_MOD:PasoNivel:570022:278698 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_PasoNivel_MOD:PasoNivel:322949:PasoNivel:322949 : MGM_PasoNivel_MOD:PasoNivel:322949:277877 equipment's parameters were   downloaded and updated on the Revit model.
+FGC_MGM_Motor_MOD:Aguja:570032:Aguja:570033 : MGM_Motor_MOD:Aguja:570033:278861 equipment's parameters were   downloaded and updated on the Revit model.
+A total of 12 equipments information has been updated correctly
+JSON file correctly generated and saved on Desktop on 09/03/2020 7:06 
