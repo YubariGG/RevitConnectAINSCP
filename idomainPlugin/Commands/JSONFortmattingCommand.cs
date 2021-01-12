@@ -64,7 +64,7 @@ namespace idomainPlugin.Commands
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddParameter("grant_type", "client_credentials");
-            request.AddHeader("Authorization", "Basic c2ItZWNmOWQwOTEtYmIxOC00NTI1LTliMTMtMGE3Y2M4YTZiNmIyIWI2MTQwfGFpbl9icm9rZXJfbGl2ZSFiMTUzNzp3aWNuRm9MMEdteGFaaEViMlYyVWF5RmlmcDQ9");
+            request.AddHeader("Authorization", "Basic YOUR TOKEN");
             string access_token = "";
 
             System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls12;
